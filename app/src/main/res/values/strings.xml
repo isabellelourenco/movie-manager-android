@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Manager</string>
+    <string name="text_ola">O l á !</string>
+    <string name="text_crie">Crie listas para organizar os filmes brasileiros que você vai assistir</string>
+    <string name="text_bem_vindo">B e m    V i n d o !</string>
+    <string name="text_login">Faça o login para continuar</string>
+    <string name="text_senha">Esqueceu sua senha?</string>
+    <string name="text_google">Faça login com sua conta Google</string>
+    <string name="text_cad">Não possui uma conta? Cadastre-se</string>
+    <string name="text_nova_conta">Crie uma nova conta</string>
+    <string name="text_possui_conta">Já possui uma conta?     Faça login</string>
+    <string name="text_minha_lista">Minhas listas</string>
+    <string name="text_popular">Popular no Brasil</string>
+    <string name="text_preferidos">Preferidos</string>
+    <string name="text_assistir">Assistir depois</string>
+
+
+
+
+
+</resources>
