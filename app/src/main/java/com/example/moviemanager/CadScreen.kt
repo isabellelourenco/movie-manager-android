@@ -14,6 +14,12 @@ class CadScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_cad_screen)
 
+        val display = supportActionBar
+        display?.title = "Cadastro"
+        if (display != null) {
+            display.setDisplayHomeAsUpEnabled(true)
+        }
+
         buttonCad = findViewById(R.id.buttonLogin)
         buttonCad.setOnClickListener {
             startActivity(Intent(this@CadScreen,HomeScreen::class.java))
